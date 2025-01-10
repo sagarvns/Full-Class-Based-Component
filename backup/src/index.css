@@ -1,0 +1,13 @@
+.my_title
+{
+  text-align: center;
+}
+.my_header ul li 
+{
+  display: inline;
+}
+.my_header ul li a 
+{
+  margin-left: 50px;
+  text-transform: uppercase;
+}
